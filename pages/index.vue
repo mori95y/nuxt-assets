@@ -1,6 +1,8 @@
 <template>
   <section class="container">
-    <p>Hello World</p>
+    <dev>
+      <img src="~/assets/cat.jpg">
+    </dev>
   </section>
 </template>
  
